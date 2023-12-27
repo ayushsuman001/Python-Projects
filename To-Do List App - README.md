@@ -37,7 +37,7 @@ python todo_app.py
 
 ## Dependencies
 
-- Python 3.x
+- Python 3
 - Tkinter library
 
 ## License
