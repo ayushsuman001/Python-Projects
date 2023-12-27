@@ -1,4 +1,4 @@
-Sure, let's create README files for both projects:
+
 
 ### README for the Computer Shop Record Management System
 
@@ -73,4 +73,3 @@ Feel free to customize and enhance the application according to your preferences
 
 ---
 
-Feel free to adapt and modify the READMEs based on your specific preferences and additional information you'd like to include.
